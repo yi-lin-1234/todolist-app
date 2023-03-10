@@ -6,7 +6,7 @@ function Nav() {
     <div>
       <nav
         className="navbar navbar-expand-lg"
-        style={{ backgroundColor: "#212529" }}
+        style={{ backgroundColor: "#F4CCD8" }}
       >
         <div className="navbar-brand">
           <Link to="/" style={{ color: "#FFFFFF", textDecoration: "none" }}>
